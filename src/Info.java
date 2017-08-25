@@ -1,5 +1,7 @@
 
 public class Info {
+	//git don't work exclusively with git hub, you can use other cloud repositories
+	
 	// git is used for version control, useful when a group of people is working
 	// on a project
 	// go to github.com after installing git bash
