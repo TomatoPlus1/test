@@ -43,4 +43,6 @@ public class Info {
 	// repository is up to date. Now you can finally push that file again to the
 	// repository with git push origin master.
 
+	//writing from git hub, after stating location, you should be able to write 
+	//git pull and pull new edits from github
 }
